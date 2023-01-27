@@ -1,0 +1,9 @@
+Integer Adder:4 1 0 1
+FP Adder:3 4 0 1
+FP Multiplier:2 15 0 1
+Load/Store Unit:10 1 5 1
+ROB Entries=128
+CDB buffer entries=1
+R0=0,R1=12,R2=20,R3=32,R4=4,R5=1,F1=10.1,F2=20.2
+MEM[32]=30.3
+

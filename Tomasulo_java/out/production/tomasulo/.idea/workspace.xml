@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a9920ae-de57-432e-a418-b787507ef540" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/copy.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/data.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/datainit.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/init.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/input.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/instructions.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/tomasulo.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G3QqDAyhtk5jGGW4BPsaVbCkRu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jzeng/Desktop/readTXT_test_f&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.input">
+    <configuration name="input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input" />
+      <module name="tomasulo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="readinit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="readinit" />
+      <module name="tomasulo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="tomasulo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.input" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a9920ae-de57-432e-a418-b787507ef540" name="Changes" comment="" />
+      <created>1665614976336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665614976336</updated>
+      <workItem from="1665614977572" duration="69000" />
+      <workItem from="1665615648103" duration="45000" />
+      <workItem from="1665615718194" duration="935000" />
+      <workItem from="1665616919628" duration="161000" />
+      <workItem from="1665617189929" duration="1123000" />
+      <workItem from="1665620097386" duration="11000" />
+      <workItem from="1666400601245" duration="28000" />
+      <workItem from="1666759512319" duration="271000" />
+      <workItem from="1667784090859" duration="16064000" />
+      <workItem from="1667940505904" duration="7452000" />
+      <workItem from="1667948513552" duration="7598000" />
+      <workItem from="1667956150392" duration="4395000" />
+      <workItem from="1667962373945" duration="781000" />
+      <workItem from="1667973518330" duration="570000" />
+      <workItem from="1668023060797" duration="16545000" />
+      <workItem from="1668041612002" duration="1426000" />
+      <workItem from="1668114681674" duration="4356000" />
+      <workItem from="1668119821501" duration="158000" />
+      <workItem from="1668120015681" duration="42000" />
+      <workItem from="1668143444453" duration="59000" />
+      <workItem from="1668370288877" duration="11263000" />
+      <workItem from="1668393972940" duration="1759000" />
+      <workItem from="1668456259854" duration="32847000" />
+      <workItem from="1668494700008" duration="1284000" />
+      <workItem from="1668498671422" duration="112000" />
+      <workItem from="1668540535651" duration="4298000" />
+      <workItem from="1668544949887" duration="11191000" />
+      <workItem from="1668557405152" duration="432000" />
+      <workItem from="1668558163374" duration="8000" />
+      <workItem from="1668558206064" duration="5095000" />
+      <workItem from="1668568168081" duration="2225000" />
+      <workItem from="1668570440520" duration="3787000" />
+      <workItem from="1668578201546" duration="82000" />
+      <workItem from="1668578290647" duration="91000" />
+      <workItem from="1668578392492" duration="317000" />
+      <workItem from="1668578907710" duration="149000" />
+      <workItem from="1668579072508" duration="50000" />
+      <workItem from="1668629172208" duration="1763000" />
+      <workItem from="1668630965047" duration="632000" />
+      <workItem from="1668632557404" duration="235000" />
+      <workItem from="1668632875523" duration="2506000" />
+      <workItem from="1668639478216" duration="22000" />
+      <workItem from="1668640815793" duration="241000" />
+      <workItem from="1668641067789" duration="6472000" />
+      <workItem from="1668648100943" duration="1814000" />
+      <workItem from="1668653736614" duration="8000" />
+      <workItem from="1668658873503" duration="184000" />
+      <workItem from="1668707592416" duration="1209000" />
+      <workItem from="1668710496384" duration="1022000" />
+      <workItem from="1668712052020" duration="17903000" />
+      <workItem from="1668733839248" duration="29000" />
+      <workItem from="1668741011190" duration="227000" />
+      <workItem from="1668747083904" duration="654000" />
+      <workItem from="1668749059681" duration="453000" />
+      <workItem from="1668751514090" duration="703000" />
+      <workItem from="1668755298761" duration="126000" />
+      <workItem from="1668755557764" duration="408000" />
+      <workItem from="1668756549015" duration="82000" />
+      <workItem from="1668756747625" duration="12000" />
+      <workItem from="1668783491316" duration="783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

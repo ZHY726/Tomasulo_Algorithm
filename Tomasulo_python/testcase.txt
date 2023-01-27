@@ -1,0 +1,15 @@
+                # of rs         Cycles in EX    Cycles in Mem   # of FUs
+Integer adder   2               2                               1
+FP adder        2               2                               1
+FP multiplier   2               20                              1
+Load/store unit 3               1               4               1
+
+ROB entries = 64 
+R0=0, R1=10, R2=20, R3=32, R4=2, F1=10.1, F2=20.2
+Mem[4]=3.0, Mem[8]=2.0, Mem[12]=3.0, Mem[24]=5.0, Mem[20]=20.2, Mem[32]=30.3
+
+Sub.d F3,F1,F2
+Add.d F4,F3,F1
+Addi R4,R4,-1
+Bne R4,R0,-4
+Add R3,R1,R2
